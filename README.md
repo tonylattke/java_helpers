@@ -10,4 +10,5 @@ java name_of_class
 | --------------------- |------------------------------------------------------------- |
 | 0_hello_world.java 		| - Hello world to Java |
 | 1_variables.java			| - Using variables |
-| 2_data_structures.java	| - Using basic data structures (tuples, array, list, map) |
+| 2_data_structures.java	| - Using basic data structures (pair, array, list, map) |
+| 3_conditionals.java		| - Using if |
