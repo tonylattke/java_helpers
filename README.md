@@ -17,3 +17,4 @@ java name_of_class
 | 6_classes.java 			| - Create Enumeration, Classes and Inheritance |
 | 7_libraries.java 			| - Using libraries (time, math and random) |
 | 8_io.java 				| - Read standard input and manipulate files |
+| 9_value_transform.java	| - Value to string and string to value functions |
