@@ -35,7 +35,7 @@ class VariablesApp {
 			"\nGreen is: " + hex(green) + 
 			"\nBlue is: " + hex(blue) + "\n");
 
-		/***************************** Operating Variables ******************************/
+		/***************************** Operating Variables *****************************/
 		
 		// Numbers
 		int p_foo = 23;

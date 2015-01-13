@@ -15,6 +15,9 @@ class ImportClassApp {
 		Hero aux3 = new Hero("Batman");
 		HeroBase aux4 = new Hero("Batman");
 
+		// Enemy
+		Enemy<Person> aux5 = new Enemy("Programmer", aux2);
+
 	}
 
 }

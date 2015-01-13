@@ -22,4 +22,5 @@ java name_of_class
 | Person.java				| - Implement PersonBase class |
 | HeroBase.java				| - Abstract Class created to be exported |
 | Hero.java					| - Extend Class HeroBase class |
+| Enemy.java				| - Generic Template Class |
 | 10_importing_files.java	| - Import files |
