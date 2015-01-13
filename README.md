@@ -16,3 +16,4 @@ java name_of_class
 | 5_functions_methods.java 	| - Using functions and methods |
 | 6_classes.java 			| - Create Enumeration, Classes and Inheritance |
 | 7_libraries.java 			| - Using libraries (time, math and random) |
+| 8_io.java 				| - Read standard input and manipulate files |
