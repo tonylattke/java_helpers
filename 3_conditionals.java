@@ -34,6 +34,20 @@ class ConditionalsApp {
 		} else {
 			System.out.println("It\'s not Tony or Enrique");
 		}
+
+		// switch .. case ..
+		int value = 23;
+		switch ( value ) {
+			case 32:
+				System.out.println("32");
+				break;
+			case 43:
+				System.out.println("42");
+				break;
+			default:
+				System.out.println("Other");
+				break;
+		}
 		
 	}
 
