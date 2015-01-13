@@ -18,3 +18,8 @@ java name_of_class
 | 7_libraries.java 			| - Using libraries (time, math and random) |
 | 8_io.java 				| - Read standard input and manipulate files |
 | 9_value_transform.java	| - Value to string and string to value functions |
+| PersonBase.java			| - Interface created to be exported |
+| Person.java				| - Implement PersonBase class |
+| HeroBase.java				| - Abstract Class created to be exported |
+| Hero.java					| - Extend Class HeroBase class |
+| 10_importing_files.java	| - Import files |
