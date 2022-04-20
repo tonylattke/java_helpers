@@ -4,7 +4,7 @@ Compile file:
 javac file_name
 
 
-Run the file and interact:
+Run file and interact:
 java name_of_class
 
 | File name        		| Description 												   |
