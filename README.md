@@ -3,7 +3,8 @@
 Compile file:
 javac file_name
 
-Run file and interact:
+
+Run the file and interact:
 java name_of_class
 
 | File name        		| Description 												   |
